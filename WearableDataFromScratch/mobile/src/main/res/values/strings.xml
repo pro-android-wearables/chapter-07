@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WearableDataFromScratch</string>
+    <string name="hello_world">Use the button to randomize the background color on the watch.\n
+        The text field shows the coordinates for your last press on the watch.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="button_label">Random Backgound Color on Watch</string>
+
+</resources>
